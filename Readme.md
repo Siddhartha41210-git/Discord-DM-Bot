@@ -1,95 +1,58 @@
+# Discord-DM-Bot
 
-# Discord DM Bot
+A Discord bot that allows you to send direct messages to users from a terminal interface.
 
-🚀 **Discord DM Bot** is a powerful and easy-to-use bot that allows you to send direct messages (DMs) to any specified user from your terminal. With robust error handling and secure token management, this bot is perfect for integrating simple DM functionality into your Discord workflow.
+## Features
+- Send DMs to users directly from the terminal.
+- Receive messages from the specified user in real-time.
+- Simple and easy-to-use interface.
 
-![DM Bot](https://github.com/YooSiddhartha41210/Discord-DM-Bot/assets/banner.png) <!-- Placeholder for image -->
+## Prerequisites
 
-## 🌟 Features
+<div>
+    <p><strong>Python 3.7+</strong></p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50">
+</div>
+<div>
+    <p><strong>discord.py library</strong></p>
+    <img src="https://cdn.discordapp.com/icons/336642139381301249/1b6f8dce504e0c27f7d54511a823cb63.png" alt="discord.py" width="50" height="50">
+</div>
+<div>
+    <p><strong>python-dotenv library</strong></p>
+    <img src="https://avatars.githubusercontent.com/u/44757126?s=200&v=4" alt="python-dotenv" width="50" height="50">
+</div>
 
-- **Send DMs from Terminal**: Send messages to any Discord user directly from your terminal.
-- **Exception Handling**: Robust error handling ensures you know exactly what went wrong if something fails.
-- **Secure**: Bot token is securely loaded from an environment variable.
+## Installation
 
-## ⚙️ Setup
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/YooSiddhartha41210/Discord-DM-Bot.git
+    cd Discord-DM-Bot
+    ```
 
-### Prerequisites
+2. Install the required packages:
+    ```sh
+    pip install -r requirements.txt
+    ```
 
-- ![Python](https://img.shields.io/badge/Python-3.8+-blue)
-- ![discord.py](https://img.shields.io/badge/discord.py-1.7.3+-blue)
-- ![python-dotenv](https://img.shields.io/badge/python--dotenv-0.19.2+-blue)
+3. Create a `.env` file in the root directory and add your Discord bot token:
+    ```plaintext
+    DISCORD_BOT_TOKEN=your_token_here
+    ```
 
-### Installation
+## Usage
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/YooSiddhartha41210/Discord-DM-Bot.git
-   cd Discord-DM-Bot
-   ```
+1. Run the bot:
+    ```sh
+    python bot.py
+    ```
 
-2. **Create a Virtual Environment** (Optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
+2. Follow the on-screen instructions to start chatting.
 
-3. **Install the Required Dependencies**:
-   ```bash
-   pip install discord.py python-dotenv
-   ```
+## License
 
-4. **Create a `.env` File** in the project root and add your bot token:
-   ```env
-   DISCORD_BOT_TOKEN=your_actual_bot_token_here
-   ```
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## 🚀 Usage
+## Acknowledgments
 
-1. **Run the Bot**:
-   ```bash
-   python bot.py
-   ```
-
-2. **Interact with the Bot**:
-   - Enter your username.
-   - Confirm you are not a bot by typing `1`.
-   - Enter the recipient's user ID.
-   - Start typing messages to be sent to the specified user.
-
-### Example Terminal Interaction
-
-```
-    ┌──────────────────────────────┐
-    │                              │
-    │         DM Bot Online        │
-    │                              │
-    └──────────────────────────────┘
-
-    Made by yoosid41210 😎
-
-Enter your username: sid
-Type '1' to confirm you are not a bot: 1
-Enter recipient user ID: 1246520830989434903
-sid: Yoo?
-yoosid: How are you?
-sid: I'm fine
-```
-
-## 📋 Error Handling
-
-- If the bot fails to send a message, it will print an appropriate error message in the terminal.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
-
-## 🙏 Acknowledgements
-
-- Thanks to the `discord.py` community for their excellent library and support.
-- Special thanks to all contributors and users who have helped improve this project.
-
----
-
-Made with ❤️ by yoosid41210
-```
-
+- Created by YooSiddhartha41210 😎
