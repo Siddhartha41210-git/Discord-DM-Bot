@@ -70,27 +70,18 @@
 Enter your username: sid
 Type '1' to confirm you are not a bot: 1
 Enter recipient user ID: 1246520830989434903
-sid: Hello there!
-sid: How are you?
+sid: Yoo?
+yoosid: How are you?
+sid: I'm fine
 ```
 
 ## 📋 Error Handling
 
 - If the bot fails to send a message, it will print an appropriate error message in the terminal.
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests if you have suggestions for improvements or want to contribute new features.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ## 🙏 Acknowledgements
 
