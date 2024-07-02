@@ -3,7 +3,7 @@
 
 🚀 **Discord DM Bot** is a powerful and easy-to-use bot that allows you to send direct messages (DMs) to any specified user from your terminal. With robust error handling and secure token management, this bot is perfect for integrating simple DM functionality into your Discord workflow.
 
-<img src = "images.png"><!-- Placeholder for image -->
+<img src = "images.png">.<!-- Placeholder for image -->
 
 ## 🌟 Features
 
