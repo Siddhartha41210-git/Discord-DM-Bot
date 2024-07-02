@@ -15,18 +15,9 @@
 
 ### Prerequisites
 
-<div>
-    <p><strong>Python 3.7+</strong></p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" height="50">
-</div>
-<div>
-    <p><strong>discord.py library</strong></p>
-    <img src="https://cdn.discordapp.com/icons/336642139381301249/1b6f8dce504e0c27f7d54511a823cb63.png" alt="discord.py" width="100" height="50">
-</div>
-<div>
-    <p><strong>python-dotenv library</strong></p>
-    <img src="https://avatars.githubusercontent.com/u/44757126?s=200&v=4" alt="python-dotenv" width="100" height="50">
-</div>
+- ![Python](https://img.shields.io/badge/Python-3.8+-blue)
+- ![discord.py](https://img.shields.io/badge/discord.py-1.7.3+-blue)
+- ![python-dotenv](https://img.shields.io/badge/python--dotenv-0.19.2+-blue)
 
 ### Installation
 
@@ -53,7 +44,7 @@
    python bot.py
    ```
 
-2. **Follow the On-Screen Instructions** to start chatting.
+2. **Now Chat with your friend 😀*: Thats all 👍
 
 ## License
 
@@ -63,4 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Created by YooSiddhartha41210 😎
 ```
-
