@@ -44,7 +44,7 @@
    python bot.py
    ```
 
-2. **Now Chat with your friend 😀*: Thats all 👍
+2. *Now Chat with your friend 😀*: Thats all 👍
 
 ## License
 
