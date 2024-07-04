@@ -36,7 +36,10 @@
    ```plaintext
    DISCORD_BOT_TOKEN=your_token_here
    ```
-
+    ----------------------------------
+   
+### **Run with REPLIT**
+[![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@siddhartha41210/Discord-Dm-Bot)
 ## Usage
 
 1. **Run the Bot**:
