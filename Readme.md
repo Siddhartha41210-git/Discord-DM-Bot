@@ -40,6 +40,9 @@
    
 ### **Run with REPLIT**
 [![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@siddhartha41210/Discord-Dm-Bot)
+
+**Note:-**
+  ```In this process the env file is Secrets tab ;)  ```
 ## Usage
 
 1. **Run the Bot**:
